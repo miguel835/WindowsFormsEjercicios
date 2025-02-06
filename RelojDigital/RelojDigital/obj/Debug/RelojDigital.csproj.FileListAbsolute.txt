@@ -1,0 +1,10 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\RelojDigital\RelojDigital\bin\Debug\RelojDigital.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\RelojDigital\RelojDigital\bin\Debug\RelojDigital.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\RelojDigital\RelojDigital\bin\Debug\RelojDigital.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\RelojDigital\RelojDigital\obj\Debug\RelojDigital.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\RelojDigital\RelojDigital\obj\Debug\RelojDigital.Form1.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\RelojDigital\RelojDigital\obj\Debug\RelojDigital.Properties.Resources.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\RelojDigital\RelojDigital\obj\Debug\RelojDigital.csproj.GenerateResource.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\RelojDigital\RelojDigital\obj\Debug\RelojDigital.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\RelojDigital\RelojDigital\obj\Debug\RelojDigital.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\RelojDigital\RelojDigital\obj\Debug\RelojDigital.pdb
