@@ -1,0 +1,10 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\InformacionComputador\InformacionComputador\bin\Debug\InformacionComputador.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\InformacionComputador\InformacionComputador\bin\Debug\InformacionComputador.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\InformacionComputador\InformacionComputador\bin\Debug\InformacionComputador.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\InformacionComputador\InformacionComputador\obj\Debug\InformacionComputador.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\InformacionComputador\InformacionComputador\obj\Debug\InformacionComputador.Form1.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\InformacionComputador\InformacionComputador\obj\Debug\InformacionComputador.Properties.Resources.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\InformacionComputador\InformacionComputador\obj\Debug\InformacionComputador.csproj.GenerateResource.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\InformacionComputador\InformacionComputador\obj\Debug\InformacionComputador.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\InformacionComputador\InformacionComputador\obj\Debug\InformacionComputador.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\InformacionComputador\InformacionComputador\obj\Debug\InformacionComputador.pdb

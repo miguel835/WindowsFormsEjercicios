@@ -1,0 +1,10 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Variables\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Variables\Variables\obj\Debug\Variables.Form1.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Variables\Variables\obj\Debug\Variables.Properties.Resources.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Variables\Variables\obj\Debug\Variables.csproj.GenerateResource.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Variables\Variables\obj\Debug\Variables.pdb
