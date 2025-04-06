@@ -1,0 +1,10 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\NumerosMeses\NumerosMeses\bin\Debug\NumerosMeses.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\NumerosMeses\NumerosMeses\bin\Debug\NumerosMeses.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\NumerosMeses\NumerosMeses\bin\Debug\NumerosMeses.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\NumerosMeses\NumerosMeses\obj\Debug\NumerosMeses.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\NumerosMeses\NumerosMeses\obj\Debug\NumerosMeses.Form1.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\NumerosMeses\NumerosMeses\obj\Debug\NumerosMeses.Properties.Resources.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\NumerosMeses\NumerosMeses\obj\Debug\NumerosMeses.csproj.GenerateResource.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\NumerosMeses\NumerosMeses\obj\Debug\NumerosMeses.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\NumerosMeses\NumerosMeses\obj\Debug\NumerosMeses.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\NumerosMeses\NumerosMeses\obj\Debug\NumerosMeses.pdb

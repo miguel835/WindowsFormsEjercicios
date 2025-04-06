@@ -1,0 +1,10 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\OperadoresPrincipales\OperadoresPrincipales\bin\Debug\OperadoresPrincipales.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\OperadoresPrincipales\OperadoresPrincipales\bin\Debug\OperadoresPrincipales.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\OperadoresPrincipales\OperadoresPrincipales\bin\Debug\OperadoresPrincipales.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\OperadoresPrincipales\OperadoresPrincipales\obj\Debug\OperadoresPrincipales.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\OperadoresPrincipales\OperadoresPrincipales\obj\Debug\OperadoresPrincipales.Form1.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\OperadoresPrincipales\OperadoresPrincipales\obj\Debug\OperadoresPrincipales.Properties.Resources.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\OperadoresPrincipales\OperadoresPrincipales\obj\Debug\OperadoresPrincipales.csproj.GenerateResource.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\OperadoresPrincipales\OperadoresPrincipales\obj\Debug\OperadoresPrincipales.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\OperadoresPrincipales\OperadoresPrincipales\obj\Debug\OperadoresPrincipales.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\OperadoresPrincipales\OperadoresPrincipales\obj\Debug\OperadoresPrincipales.pdb
