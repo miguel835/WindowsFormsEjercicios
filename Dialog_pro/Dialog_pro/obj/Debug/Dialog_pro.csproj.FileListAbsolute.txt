@@ -1,0 +1,10 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Dialog_pro\Dialog_pro\bin\Debug\Dialog_pro.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Dialog_pro\Dialog_pro\bin\Debug\Dialog_pro.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Dialog_pro\Dialog_pro\bin\Debug\Dialog_pro.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Dialog_pro\Dialog_pro\obj\Debug\Dialog_pro.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Dialog_pro\Dialog_pro\obj\Debug\Dialog_pro.Form1.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Dialog_pro\Dialog_pro\obj\Debug\Dialog_pro.Properties.Resources.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Dialog_pro\Dialog_pro\obj\Debug\Dialog_pro.csproj.GenerateResource.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Dialog_pro\Dialog_pro\obj\Debug\Dialog_pro.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Dialog_pro\Dialog_pro\obj\Debug\Dialog_pro.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Dialog_pro\Dialog_pro\obj\Debug\Dialog_pro.pdb
