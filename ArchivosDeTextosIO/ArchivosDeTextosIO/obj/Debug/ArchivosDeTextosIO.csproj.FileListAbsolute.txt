@@ -1,0 +1,10 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ArchivosDeTextosIO\ArchivosDeTextosIO\bin\Debug\ArchivosDeTextosIO.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ArchivosDeTextosIO\ArchivosDeTextosIO\bin\Debug\ArchivosDeTextosIO.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ArchivosDeTextosIO\ArchivosDeTextosIO\bin\Debug\ArchivosDeTextosIO.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ArchivosDeTextosIO\ArchivosDeTextosIO\obj\Debug\ArchivosDeTextosIO.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ArchivosDeTextosIO\ArchivosDeTextosIO\obj\Debug\ArchivosDeTextosIO.Form1.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ArchivosDeTextosIO\ArchivosDeTextosIO\obj\Debug\ArchivosDeTextosIO.Properties.Resources.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ArchivosDeTextosIO\ArchivosDeTextosIO\obj\Debug\ArchivosDeTextosIO.csproj.GenerateResource.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ArchivosDeTextosIO\ArchivosDeTextosIO\obj\Debug\ArchivosDeTextosIO.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ArchivosDeTextosIO\ArchivosDeTextosIO\obj\Debug\ArchivosDeTextosIO.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ArchivosDeTextosIO\ArchivosDeTextosIO\obj\Debug\ArchivosDeTextosIO.pdb

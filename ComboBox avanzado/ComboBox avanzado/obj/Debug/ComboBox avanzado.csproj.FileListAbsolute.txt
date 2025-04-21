@@ -1,0 +1,10 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ComboBox avanzado\ComboBox avanzado\bin\Debug\ComboBox avanzado.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ComboBox avanzado\ComboBox avanzado\bin\Debug\ComboBox avanzado.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ComboBox avanzado\ComboBox avanzado\bin\Debug\ComboBox avanzado.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ComboBox avanzado\ComboBox avanzado\obj\Debug\ComboBox avanzado.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ComboBox avanzado\ComboBox avanzado\obj\Debug\ComboBox_avanzado.Form1.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ComboBox avanzado\ComboBox avanzado\obj\Debug\ComboBox_avanzado.Properties.Resources.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ComboBox avanzado\ComboBox avanzado\obj\Debug\ComboBox avanzado.csproj.GenerateResource.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ComboBox avanzado\ComboBox avanzado\obj\Debug\ComboBox avanzado.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ComboBox avanzado\ComboBox avanzado\obj\Debug\ComboBox avanzado.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ComboBox avanzado\ComboBox avanzado\obj\Debug\ComboBox avanzado.pdb

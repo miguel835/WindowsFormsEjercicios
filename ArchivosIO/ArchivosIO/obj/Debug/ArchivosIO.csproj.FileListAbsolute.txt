@@ -1,0 +1,10 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ArchivosIO\ArchivosIO\bin\Debug\ArchivosIO.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ArchivosIO\ArchivosIO\bin\Debug\ArchivosIO.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ArchivosIO\ArchivosIO\bin\Debug\ArchivosIO.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ArchivosIO\ArchivosIO\obj\Debug\ArchivosIO.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ArchivosIO\ArchivosIO\obj\Debug\ArchivosIO.Form1.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ArchivosIO\ArchivosIO\obj\Debug\ArchivosIO.Properties.Resources.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ArchivosIO\ArchivosIO\obj\Debug\ArchivosIO.csproj.GenerateResource.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ArchivosIO\ArchivosIO\obj\Debug\ArchivosIO.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ArchivosIO\ArchivosIO\obj\Debug\ArchivosIO.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ArchivosIO\ArchivosIO\obj\Debug\ArchivosIO.pdb

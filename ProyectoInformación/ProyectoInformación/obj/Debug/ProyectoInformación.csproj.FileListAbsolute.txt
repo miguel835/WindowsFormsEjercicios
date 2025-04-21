@@ -1,0 +1,10 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ProyectoInformación\ProyectoInformación\bin\Debug\ProyectoInformación.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ProyectoInformación\ProyectoInformación\bin\Debug\ProyectoInformación.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ProyectoInformación\ProyectoInformación\bin\Debug\ProyectoInformación.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ProyectoInformación\ProyectoInformación\obj\Debug\ProyectoInformación.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ProyectoInformación\ProyectoInformación\obj\Debug\ProyectoInformación.Form1.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ProyectoInformación\ProyectoInformación\obj\Debug\ProyectoInformación.Properties.Resources.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ProyectoInformación\ProyectoInformación\obj\Debug\ProyectoInformación.csproj.GenerateResource.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ProyectoInformación\ProyectoInformación\obj\Debug\ProyectoInformación.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ProyectoInformación\ProyectoInformación\obj\Debug\ProyectoInformación.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\ProyectoInformación\ProyectoInformación\obj\Debug\ProyectoInformación.pdb

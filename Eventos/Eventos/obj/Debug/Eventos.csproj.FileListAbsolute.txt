@@ -1,0 +1,10 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Eventos\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Eventos\Eventos\bin\Debug\Eventos.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Eventos\Eventos\bin\Debug\Eventos.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Eventos\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Eventos\Eventos\obj\Debug\Eventos.Form1.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Eventos\Eventos\obj\Debug\Eventos.Properties.Resources.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Eventos\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Eventos\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Eventos\Eventos\obj\Debug\Eventos.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Eventos\Eventos\obj\Debug\Eventos.pdb
