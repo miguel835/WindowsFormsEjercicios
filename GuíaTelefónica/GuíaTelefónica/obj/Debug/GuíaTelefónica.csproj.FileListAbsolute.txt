@@ -1,0 +1,13 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\GuíaTelefónica\GuíaTelefónica\bin\Debug\GuíaTelefónica.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\GuíaTelefónica\GuíaTelefónica\bin\Debug\GuíaTelefónica.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\GuíaTelefónica\GuíaTelefónica\bin\Debug\GuíaTelefónica.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\GuíaTelefónica\GuíaTelefónica\obj\Debug\GuíaTelefónica.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\GuíaTelefónica\GuíaTelefónica\obj\Debug\GuíaTelefónica.About_us.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\GuíaTelefónica\GuíaTelefónica\obj\Debug\GuíaTelefónica.Form1.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\GuíaTelefónica\GuíaTelefónica\obj\Debug\GuíaTelefónica.Properties.Resources.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\GuíaTelefónica\GuíaTelefónica\obj\Debug\GuíaTelefónica.Reg_data.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\GuíaTelefónica\GuíaTelefónica\obj\Debug\GuíaTelefónica.Search_Form.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\GuíaTelefónica\GuíaTelefónica\obj\Debug\GuíaTelefónica.csproj.GenerateResource.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\GuíaTelefónica\GuíaTelefónica\obj\Debug\GuíaTelefónica.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\GuíaTelefónica\GuíaTelefónica\obj\Debug\GuíaTelefónica.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\GuíaTelefónica\GuíaTelefónica\obj\Debug\GuíaTelefónica.pdb
