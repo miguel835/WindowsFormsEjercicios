@@ -115,7 +115,7 @@ Guia de como usar el System.IO.Directory para crear una carpeta, borrar una carp
 verificar la existencia de una carpeta
 
 ### [Guía telefónica](https://github.com/miguel835/WindowsFormsEjercicios/tree/master/Gu%C3%ADaTelef%C3%B3nica)
-En este ejercicio diseñe un formulario tipo MDI en el cual tenga un formulario padre y cuatros formularios hijos 
+En este ejercicio diseñe un formulario tipo MDI en el cual tenga un formulario padre y tres formularios hijos 
 en el formulario padre agrege el control toolStrip en la cual tenga en cada botón tenga un estilo Imagen y Texto
 en el primer botón será para llamar a un formulario hijo para el registro de datos, el segundo botón será
 para llamar a un formulario hijo para realizar la búsqueda de datos por ID, el tercer botón deberá hacer 
@@ -128,12 +128,13 @@ con ayuda del evento KeyDown, ejm: F2 muestra el formulario hijo de registro de 
 
 Se solicita que se utilice la librería IO para guardar los datos con el nombre del ID + el dato a guardar 
 en diferentes archivos de textos, es decir un archivo en el que se guarde el nombre, otro archivo para el apellido, etc.
-Programe para que pueda realizar la buscar en el sistema del archivo con ayuda del ID escito por el usuario en un
-textbox, además también valide que primero los archivos existan en el sistema para evitar que el programa se 
-caiga. 
+Programe además el formulario hijo de busqueda para que pueda realizar la buscar en el sistema del archivo con 
+ayuda del ID escito por el usuario en un textbox, además también valide que primero los archivos existan en el sistema 
+para evitar que el programa se caiga. 
 
 Finalmente modifique la información de ensamblado del programa para que se puedan visualizar en 
-las propiedades el .exe información como nombre, versión del programa, empresa, etc. 
+las propiedades el .exe información como nombre, versión del programa, empresa, etc. Si no se le reflejan los
+cambios entonces limpie la solución y recompile de nuevo el programa.
 
 ### 4. Base de dato PostgreSQL
 
