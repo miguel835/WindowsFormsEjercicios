@@ -128,7 +128,7 @@ con ayuda del evento KeyDown, ejm: F2 muestra el formulario hijo de registro de 
 
 Se solicita que se utilice la librería IO para guardar los datos con el nombre del ID + el dato a guardar 
 en diferentes archivos de textos, es decir un archivo en el que se guarde el nombre, otro archivo para el apellido, etc.
-Programe además el formulario hijo de busqueda para que pueda realizar la buscar en el sistema del archivo con 
+Programe además el formulario hijo de busqueda para que pueda realizar la busqueda en el sistema del archivo con 
 ayuda del ID escito por el usuario en un textbox, además también valide que primero los archivos existan en el sistema 
 para evitar que el programa se caiga. 
 
