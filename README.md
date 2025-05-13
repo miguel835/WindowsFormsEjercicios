@@ -5,7 +5,7 @@ ejercicios propuestos con sus respectivas soluciones.
 
 ### ¿Cómo clono este repositorio?
 ```bash
-git clone https://github.com/miguel835/EjerciciosPOO.git
+git clone https://github.com/miguel835/WindowsFormsEjercicios.git
 ```
 
 ## Tabla de contenido por tema
@@ -148,4 +148,14 @@ Dentro del código necesario para el acceso a la base de datos se solicita crear 
 almacenar nueva información y para consultar la registrada en la base de datos. Esta clase deberá tener
 los métodos que permitan almacenar nueva información y consultar información almacenada
 
+### 5. Windows Forms Avanzado 
+
+### [Debug_intro](https://github.com/miguel835/WindowsFormsEjercicios/tree/master/Debug_intro)
+En este puedes ver un pequeño código en la cual puedes practicar Debugging agrega puntos de interrupción
+en el código puede uno o varios y practica
+
+### [WMP](https://github.com/miguel835/WindowsFormsEjercicios/tree/master/WMP)
+En esta puedes ver y entender como se puede integrar Windows Media Player con Windows Forms desde 
+como hacer su integración, como cargar un archivo tanto de video y audio, como encender, como parar,
+como detener y como reproducir 
 
