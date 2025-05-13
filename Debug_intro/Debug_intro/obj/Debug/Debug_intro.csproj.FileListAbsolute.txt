@@ -1,0 +1,10 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Debug_intro\Debug_intro\bin\Debug\Debug_intro.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Debug_intro\Debug_intro\bin\Debug\Debug_intro.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Debug_intro\Debug_intro\bin\Debug\Debug_intro.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Debug_intro\Debug_intro\obj\Debug\Debug_intro.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Debug_intro\Debug_intro\obj\Debug\Debug_intro.Form1.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Debug_intro\Debug_intro\obj\Debug\Debug_intro.Properties.Resources.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Debug_intro\Debug_intro\obj\Debug\Debug_intro.csproj.GenerateResource.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Debug_intro\Debug_intro\obj\Debug\Debug_intro.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Debug_intro\Debug_intro\obj\Debug\Debug_intro.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Debug_intro\Debug_intro\obj\Debug\Debug_intro.pdb

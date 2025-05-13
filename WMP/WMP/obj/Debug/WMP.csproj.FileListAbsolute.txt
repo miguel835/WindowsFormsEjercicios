@@ -1,0 +1,15 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\WMP\WMP\bin\Debug\WMP.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\WMP\WMP\bin\Debug\WMP.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\WMP\WMP\bin\Debug\WMP.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\WMP\WMP\bin\Debug\Interop.WMPLib.dll
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\WMP\WMP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\WMP\WMP\obj\Debug\WMP.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\WMP\WMP\obj\Debug\Interop.WMPLib.dll
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\WMP\WMP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\WMP\WMP\obj\Debug\WMP.csproj.ResolveComReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\WMP\WMP\obj\Debug\WMP.Form1.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\WMP\WMP\obj\Debug\WMP.Properties.Resources.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\WMP\WMP\obj\Debug\WMP.csproj.GenerateResource.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\WMP\WMP\obj\Debug\WMP.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\WMP\WMP\obj\Debug\WMP.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\WMP\WMP\obj\Debug\WMP.pdb
