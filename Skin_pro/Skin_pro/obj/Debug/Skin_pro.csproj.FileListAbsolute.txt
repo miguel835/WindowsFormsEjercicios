@@ -1,0 +1,13 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Skin_pro\Skin_pro\bin\Debug\Skin_pro.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Skin_pro\Skin_pro\bin\Debug\Skin_pro.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Skin_pro\Skin_pro\bin\Debug\Skin_pro.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Skin_pro\Skin_pro\obj\Debug\Skin_pro.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Skin_pro\Skin_pro\obj\Debug\Skin_pro.Form1.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Skin_pro\Skin_pro\obj\Debug\Skin_pro.Properties.Resources.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Skin_pro\Skin_pro\obj\Debug\Skin_pro.csproj.GenerateResource.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Skin_pro\Skin_pro\obj\Debug\Skin_pro.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Skin_pro\Skin_pro\obj\Debug\Skin_pro.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Skin_pro\Skin_pro\obj\Debug\Skin_pro.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Skin_pro\Skin_pro\bin\Debug\MaterialSkin.dll
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Skin_pro\Skin_pro\obj\Debug\Skin_pro.csproj.Up2Date
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Skin_pro\Skin_pro\obj\Debug\Skin_pro.exe.config
