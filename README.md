@@ -159,3 +159,8 @@ En esta puedes ver y entender como se puede integrar Windows Media Player con Wi
 como hacer su integración, como cargar un archivo tanto de video y audio, como encender, como parar,
 como detener y como reproducir 
 
+### [Temas en WF](https://github.com/miguel835/WindowsFormsEjercicios/tree/master/Skin_pro)
+Guía de como usar los temas en Windows Forms. 
+Tip: Ve a [nuget](https://www.nuget.org/) y busca la palabra skin y con esto te apareceran varios temas, 
+en esta guia se usa el tema [MaterialSkin](https://www.nuget.org/packages/MaterialSkin), instala este.
+Y ahí si puedes revisar la guia. 
