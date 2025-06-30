@@ -164,3 +164,8 @@ Guía de como usar los temas en Windows Forms.
 Tip: Ve a [nuget](https://www.nuget.org/) y busca la palabra skin y con esto te apareceran varios temas, 
 en esta guia se usa el tema [MaterialSkin](https://www.nuget.org/packages/MaterialSkin), instala este.
 Y ahí si puedes revisar la guia. 
+
+### [Formulario Configuraciones Modernas](https://github.com/miguel835/WindowsFormsEjercicios/tree/master/FormularioConfiguracionesModernas)
+Crear un formulario en el cual se pueda ingresar los datos de las configuraciones de una empresa(logo, email,
+fax, etc), el diseño del formulario es de libre elección, pero obligatoriamente debe usar el tema
+[MaterialSkin](https://www.nuget.org/packages/MaterialSkin) y por supuesto sus controles.
