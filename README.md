@@ -169,3 +169,16 @@ Y ahí si puedes revisar la guia.
 Crear un formulario en el cual se pueda ingresar los datos de las configuraciones de una empresa(logo, email,
 fax, etc), el diseño del formulario es de libre elección, pero obligatoriamente debe usar el tema
 [MaterialSkin](https://www.nuget.org/packages/MaterialSkin) y por supuesto sus controles.
+
+### [Practical Tips](https://github.com/miguel835/WindowsFormsEjercicios/tree/master/PracticalTips)
+Guia de como obtener la ruta de la aplicación en C#, como correr otras aplicaciones desde la carpeta App.
+
+### 6. Libreria Aforge 
+### [Camara](https://github.com/miguel835/WindowsFormsEjercicios/tree/master/Camara)
+Guía de como abrir la webcamara de una computadora, como detectarla todas las camaras conectadas a la 
+y tomar una foto. 
+Los paquetes Nuget que se usaron son [AForge](https://www.nuget.org/packages/AForge), 
+[AForge.Video](https://www.nuget.org/packages/AForge.Video), [AForge.Video.DirectShow](https://www.nuget.org/packages/AForge.Video.DirectShow)
+
+
+
