@@ -49,7 +49,7 @@ namespace FormularioConfiguracionesModernas.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
         public bool skin_color_ambar {
             get {
                 return ((bool)(this["skin_color_ambar"]));

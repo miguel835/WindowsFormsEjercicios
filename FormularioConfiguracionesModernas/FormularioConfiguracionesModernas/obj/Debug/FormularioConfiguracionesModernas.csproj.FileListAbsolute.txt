@@ -11,3 +11,4 @@ C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\FormularioConfig
 C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\FormularioConfiguracionesModernas\FormularioConfiguracionesModernas\obj\Debug\Formular.BD55280F.Up2Date
 C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\FormularioConfiguracionesModernas\FormularioConfiguracionesModernas\obj\Debug\FormularioConfiguracionesModernas.exe
 C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\FormularioConfiguracionesModernas\FormularioConfiguracionesModernas\obj\Debug\FormularioConfiguracionesModernas.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\FormularioConfiguracionesModernas\FormularioConfiguracionesModernas\obj\Debug\FormularioConfiguracionesModernas.exe.config

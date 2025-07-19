@@ -1,0 +1,13 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\PracticalTips\PracticalTips\bin\Debug\PracticalTips.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\PracticalTips\PracticalTips\bin\Debug\PracticalTips.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\PracticalTips\PracticalTips\bin\Debug\PracticalTips.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\PracticalTips\PracticalTips\obj\Debug\PracticalTips.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\PracticalTips\PracticalTips\obj\Debug\PracticalTips.Form1.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\PracticalTips\PracticalTips\obj\Debug\PracticalTips.Properties.Resources.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\PracticalTips\PracticalTips\obj\Debug\PracticalTips.csproj.GenerateResource.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\PracticalTips\PracticalTips\obj\Debug\PracticalTips.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\PracticalTips\PracticalTips\obj\Debug\PracticalTips.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\PracticalTips\PracticalTips\obj\Debug\PracticalTips.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\PracticalTips\PracticalTips\obj\Debug\PracticalTips.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\PracticalTips\PracticalTips\bin\Debug\Data\pro\calc.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\PracticalTips\PracticalTips\bin\Debug\Data\pics\fox.jpeg

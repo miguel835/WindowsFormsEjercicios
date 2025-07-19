@@ -64,7 +64,7 @@ namespace FormularioConfiguracionesModernas
             //FormularioConfiguracionesModernas.Conf_temas f = new Conf_temas(); Es lo mismo
             var f = new Conf_temas();//Es lo mismo que la linea comentada
             f.ShowDialog();
-            f.Dispose();//Dispose significa liberar cualquier memoria que pertenezca
+            //f.Dispose();//Dispose significa liberar cualquier memoria que pertenezca
             //a este formulario, es decir que luego de que se abra este formulario 
             //La memoria utilizada por él será liberada.
         }
