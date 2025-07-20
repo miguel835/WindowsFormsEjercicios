@@ -1,0 +1,11 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Tamaño\Tamaño\bin\Debug\Tamaño.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Tamaño\Tamaño\bin\Debug\Tamaño.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Tamaño\Tamaño\bin\Debug\Tamaño.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Tamaño\Tamaño\obj\Debug\Tamaño.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Tamaño\Tamaño\obj\Debug\Tamaño.Form1.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Tamaño\Tamaño\obj\Debug\Tamaño.Properties.Resources.resources
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Tamaño\Tamaño\obj\Debug\Tamaño.csproj.GenerateResource.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Tamaño\Tamaño\obj\Debug\Tamaño.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Tamaño\Tamaño\obj\Debug\Tamaño.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Tamaño\Tamaño\obj\Debug\Tamaño.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\WindowsFormsEjercicios\Tamaño\Tamaño\obj\Debug\Tamaño.exe.config
