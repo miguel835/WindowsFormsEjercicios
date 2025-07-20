@@ -173,6 +173,11 @@ fax, etc), el diseño del formulario es de libre elección, pero obligatoriamente 
 ### [Practical Tips](https://github.com/miguel835/WindowsFormsEjercicios/tree/master/PracticalTips)
 Guia de como obtener la ruta de la aplicación en C#, como correr otras aplicaciones desde la carpeta App.
 
+### [Tamaño](https://github.com/miguel835/WindowsFormsEjercicios/tree/master/Tama%C3%B1o)
+Guia de como cambiar el tamaño del formulario a través de código, como cambiar el tamaño de los controles
+a través de código, como cambiar la posición de los controles a través de código y como mover los controles 
+con el ratón en el formulario. 
+
 ### 6. Libreria Aforge 
 ### [Camara](https://github.com/miguel835/WindowsFormsEjercicios/tree/master/Camara)
 Guía de como abrir la webcamara de una computadora, como detectarla todas las camaras conectadas a la 
